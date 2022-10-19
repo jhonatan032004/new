@@ -1,0 +1,25 @@
+{
+  "name": "entorno",
+  "version": "1.0.0",
+  "description": "prueba de git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatan032004/new.git"
+  },
+  "keywords": [
+    "env"
+  ],
+  "author": "jhonatan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatan032004/new/issues"
+  },
+  "homepage": "https://github.com/jhonatan032004/new#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
